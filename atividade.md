@@ -17,7 +17,7 @@ contrato <1; 1; 3; 108.0> tem obrigatoriamente valor menor ou igual aos valores 
 <1; 1; 1; 10.0> + <1; 2; 3; 102.0>, cujo valor total é $112; ou \
 <1; 1; 2; 105.0> + <1; 3; 3; 10.0>, cujo valor total é $115.
 
-#### Entrada de Dados
+### Entrada de Dados
 
 O arquivo de entrada (.txt) descreve uma instância do problema. A primeira linha do arquivo
 contém um inteiro indicando a quantidade _n_ de meses de contratação de energia, um inteiro indicando a
@@ -49,7 +49,7 @@ Exemplos de Soluções Viáveis (não necessariamente econômicas)
 <1; 1; 1; 10.0> e <2; 2; 3; 60.0> com custo total de $100 = $10 + **$30** + $60; \
 <1; 1; 1; 10.0>, <2; 2; 2; 20.0> e <1; 3; 3; 10.0> com custo total de $100 = $10 + **$30** + $20 + **$30** + $10;
 
-#### Atividades
+### Atividades
 
 Atividades da 2a entrega:
 a) Realizar a leitura do arquivo de entrada, armazenando os dados dos contratos (0,5 ponto):
