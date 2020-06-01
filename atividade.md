@@ -52,6 +52,8 @@ Exemplos de Soluções Viáveis (não necessariamente econômicas) \
 ### Atividades
 
 Atividades da 2a entrega:
+
+
 a) Realizar a leitura do arquivo de entrada, armazenando os dados dos contratos (0,5 ponto):
 1. Em um vetor de objetos do tipo contrato; e
 2. Em uma matriz, indexada pelo fornecedor, pelo mês de início e pelo mês de fim do contrato, onde
