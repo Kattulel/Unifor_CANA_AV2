@@ -44,7 +44,7 @@ Exemplo de Entrada de Dados
 2 1 3 115.
 
 
-Exemplos de Soluções Viáveis (não necessariamente econômicas)
+Exemplos de Soluções Viáveis (não necessariamente econômicas) \
 <1; 1; 3; 108.0> com custo total de $108; \
 <1; 1; 1; 10.0> e <2; 2; 3; 60.0> com custo total de $100 = $10 + **$30** + $60; \
 <1; 1; 1; 10.0>, <2; 2; 2; 20.0> e <1; 3; 3; 10.0> com custo total de $100 = $10 + **$30** + $20 + **$30** + $10;
