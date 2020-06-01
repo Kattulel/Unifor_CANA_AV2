@@ -13,6 +13,7 @@ Como exemplo, o contrato <1; 1; 5; 10.0> refere-se a um contrato do fornecedor 1
 fornecer energia durante os meses de 1 a 5 com um valor total de $10,0. Para um mesmo fornecedor, os
 contratos seguem as regras de formação de preço:
 
+
 a) Um contrato referente ao período completo do mês _i_ ao mês _j_ jamais possui valor inferior ao valor de
 um contrato cuja abrangência está contida entre o período do mês _i_ ao mês _j_. Por exemplo, o contrato
 <1; 1; 3; 108.0> tem obrigatoriamente valor maior ou igual ao valor dos contratos:
@@ -51,7 +52,7 @@ Exemplo de Entrada de Dados
 2 3 3 50.\
 2 1 2 95.\
 2 2 3 60.\
-2 1 3 115.\
+2 1 3 115.
 
 
 Exemplos de Soluções Viáveis (não necessariamente econômicas)
