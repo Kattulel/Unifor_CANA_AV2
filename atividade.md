@@ -39,19 +39,19 @@ avaliação, o arquivo de entrada pode conter uma instância de grande porte ( _
 
 Exemplo de Entrada de Dados
 
-3 2 30.
-1 1 1 10.
-1 2 2 100.
-1 3 3 10.
-1 1 2 105.
-1 2 3 102.
-1 1 3 108.
-2 1 1 80.
-2 2 2 20.
-2 3 3 50.
-2 1 2 95.
-2 2 3 60.
-2 1 3 115.
+3 2 30.\
+1 1 1 10.\
+1 2 2 100.\
+1 3 3 10.\
+1 1 2 105.\
+1 2 3 102.\
+1 1 3 108.\
+2 1 1 80.\
+2 2 2 20.\
+2 3 3 50.\
+2 1 2 95.\
+2 2 3 60.\
+2 1 3 115.\
 
 
 Exemplos de Soluções Viáveis (não necessariamente econômicas)
